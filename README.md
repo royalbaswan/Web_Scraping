@@ -1,5 +1,5 @@
-                                              Web_Scraping and Text Analysis
-                              Blackcoffer- Extracting blog text and calculating variables  
+                                            Web_Scraping and Text Analysis
+                            Blackcoffer- Extracting blog text and calculating variables  
 
 # 1	Objective
 The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
@@ -48,3 +48,4 @@ Output Variables:
 13.	PERSONAL PRONOUNS
 14.	AVG WORD LENGTH
 
+Note: Computed data excel file contains all the computed variables for each URL and the code file contains the code used to extract data and perform the required analysis.
